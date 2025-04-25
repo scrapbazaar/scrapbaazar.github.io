@@ -1,0 +1,129 @@
+{
+    "status": 1,
+    "content": [
+        {
+            "category": "Large Appliances",
+            "data": [
+                {
+                    "name": "Split AC Copper Coil 1.5 Ton (Indoor + Outdoor)",
+                    "price": "RS 4150/PIECE",
+                    "category": "Air Conditioners",
+                    "image": "assets/image/home_1.webp"
+                },
+                {
+                    "name": "Window AC 1.5 Ton (Copper Coil)",
+                    "price": "RS 4050/PIECE",
+                    "category": "Air Conditioners",
+                    "image": "https://example.com/images/window_ac_1.5ton.jpg"
+                },
+                {
+                    "name": "Split/Window AC 1 Ton (Copper Coil)",
+                    "price": "RS 3000/PIECE",
+                    "category": "Air Conditioners",
+                    "image": "https://example.com/images/split_window_ac_1ton.jpg"
+                },
+                {
+                    "name": "Window/Split AC 2 Ton (Copper Coil)",
+                    "price": "RS 5600/PIECE",
+                    "category": "Air Conditioners",
+                    "image": "https://example.com/images/window_split_ac_2ton.jpg"
+                },
+                {
+                    "name": "Front Load Fully Automatic Washing Machine",
+                    "price": "RS 1350/PIECE",
+                    "category": "Washing Machines",
+                    "image": "https://example.com/images/front_load_washing_machine.jpg"
+                },
+                {
+                    "name": "Top Load Fully Automatic Washing Machine",
+                    "price": "RS 1000/PIECE",
+                    "category": "Washing Machines",
+                    "image": "https://example.com/images/top_load_washing_machine.jpg"
+                },
+                {
+                    "name": "Semi Automatic Washing Machine (Double Drum)",
+                    "price": "RS 750/PIECE",
+                    "category": "Washing Machines",
+                    "image": "https://example.com/images/semi_automatic_washing_machine.jpg"
+                },
+                {
+                    "name": "Geyser",
+                    "price": "RS 20/KG",
+                    "category": "Geysers",
+                    "image": "https://example.com/images/geyser.jpg"
+                },
+                {
+                    "name": "Single Door Fridge",
+                    "price": "RS 1100/PIECE",
+                    "category": "Refrigerators",
+                    "image": "https://example.com/images/single_door_fridge.jpg"
+                },
+                {
+                    "name": "Double Door Fridge",
+                    "price": "RS 1350/PIECE",
+                    "category": "Refrigerators",
+                    "image": "https://example.com/images/double_door_fridge.jpg"
+                },
+                {
+                    "name": "Iron Cooler",
+                    "price": "RS 30/KG",
+                    "category": "Coolers",
+                    "image": "https://example.com/images/iron_cooler.jpg"
+                },
+                {
+                    "name": "Plastic Cooler",
+                    "price": "RS 15/KG",
+                    "category": "Coolers",
+                    "image": "https://example.com/images/plastic_cooler.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Scrap Materials",
+            "data": [
+                {
+                    "name": "Copper Wire Scrap",
+                    "price": "RS 500/KG",
+                    "category": "Metals",
+                    "image": "https://example.com/images/copper_wire_scrap.jpg"
+                },
+                {
+                    "name": "Aluminum Scrap",
+                    "price": "RS 100/KG",
+                    "category": "Metals",
+                    "image": "https://example.com/images/aluminum_scrap.jpg"
+                },
+                {
+                    "name": "Iron Scrap",
+                    "price": "RS 25/KG",
+                    "category": "Metals",
+                    "image": "https://example.com/images/iron_scrap.jpg"
+                },
+                {
+                    "name": "Plastic Scrap",
+                    "price": "RS 10/KG",
+                    "category": "Plastics",
+                    "image": "https://example.com/images/plastic_scrap.jpg"
+                },
+                {
+                    "name": "Paper Scrap",
+                    "price": "RS 5/KG",
+                    "category": "Paper",
+                    "image": "https://example.com/images/paper_scrap.jpg"
+                },
+                {
+                    "name": "Glass Scrap",
+                    "price": "RS 15/KG",
+                    "category": "Glass",
+                    "image": "https://example.com/images/glass_scrap.jpg"
+                },
+                {
+                    "name": "Old Electronics Scrap",
+                    "price": "RS 200/KG",
+                    "category": "Electronics",
+                    "image": "https://example.com/images/electronics_scrap.jpg"
+                }
+            ]
+        }
+    ]
+}
