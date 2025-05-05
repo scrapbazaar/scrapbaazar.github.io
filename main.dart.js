@@ -54489,7 +54489,7 @@ A.awp.prototype={
 $2(a,b){return this.a.c7(a,b)},
 $S:11}
 A.Vf.prototype={
-gD4(){return B.KO},
+gD4(){return B.KP},
 Hk(a){var s,r=this
 switch(a.a){case 0:s=r.d.z
 break
@@ -55419,7 +55419,7 @@ r.e=s.a.a
 r.f=s.d},
 $S:0}
 A.OZ.prototype={
-I(a){return A.aJy(new A.nk(B.FZ,null,null),B.A,new A.vx(1,B.LG,new A.ct(B.Bc,B.o)),this.c.U(0,new A.j(0,40.95)),1.25,B.ST)}}
+I(a){return A.aJy(new A.nk(B.FZ,null,null),B.A,new A.vx(1,B.LH,new A.ct(B.Bc,B.o)),this.c.U(0,new A.j(0,40.95)),1.25,B.ST)}}
 A.r3.prototype={
 L(){return"MaterialType."+this.b}}
 A.Cg.prototype={
@@ -90278,7 +90278,7 @@ A.ZB.prototype={}
 A.uN.prototype={
 I(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.DT(!0,A.jo(A.dv(A.b([B.YT,B.bb,A.ce(r==null?"page not found":r,s,s,s,s,s,s),B.bb,new A.FX(new A.a8W(a),B.YL,s)],t.p),B.S,B.d7,B.N),s,s),B.ar,!0)}}
+return A.DT(!0,A.jo(A.dv(A.b([B.YT,B.bb,A.ce(r==null?"page not found":r,s,s,s,s,s,s),B.bb,new A.FX(new A.a8W(a),B.YM,s)],t.p),B.S,B.d7,B.N),s,s),B.ar,!0)}}
 A.a8W.prototype={
 $0(){return A.Br(this.a).Lo(0,"/",null)},
 $S:0}
@@ -92281,7 +92281,7 @@ $1(a){return A.LF(null,null,new A.agS(),t._Q,t.bk)},
 $S:581}
 A.agS.prototype={
 $2(a,b){var s=b.c===B.aa?B.A1:B.YY,r=b.a
-return new A.o3($.aNS(),"SrapBazaar",r,r,s,!1,null)},
+return new A.o3($.aNS(),"ScrapBaazar",r,r,s,!1,null)},
 $S:582}
 A.L5.prototype={
 I(a){return new A.kC(new A.a3f(this),null)}}
@@ -92342,7 +92342,7 @@ r.H$=q
 r.F$=0
 s.aC()},
 I(a){var s=null
-return A.wl(A.zo(s,s,s,s,B.v,B.YM),A.aHZ(A.Er(new A.kC(new A.axH(this),s),B.cy),this.d),s,s,s)}}
+return A.wl(A.zo(s,s,s,s,B.v,B.YN),A.aHZ(A.Er(new A.kC(new A.axH(this),s),B.cy),this.d),s,s,s)}}
 A.axH.prototype={
 $2(a,b){var s=null,r=this.a,q=t.x_,p=t.p
 return A.dv(A.b([B.bb,A.no(r.e,B.fn,"Name",s,1,new A.axw()),B.bb,A.no(r.f,B.zU,"Email",s,1,new A.axx()),B.bb,A.no(r.w,B.lf,"Mobile",10,1,new A.axy()),B.bb,A.no(r.r,B.lf,"Pincode",s,1,new A.axz()),B.bb,A.no(r.x,B.fn,"Message",s,2,s),B.bM,A.iQ(A.b([A.iy(new A.fl(r.y,new A.axA(r),s,s,q),1),B.l5,A.iy(new A.fl(r.z,new A.axB(r),s,s,q),1)],p),B.S,B.J,B.N),B.bb,A.iQ(A.b([A.iy(new A.fl(r.Q,new A.axC(r),s,s,q),1),B.l5,A.iy(new A.fl(r.as,new A.axD(r),s,s,q),1)],p),B.S,B.J,B.N),B.bb,A.iQ(A.b([A.iy(new A.fl(r.at,new A.axE(r),s,s,q),1),B.l5,A.iy(new A.fl(r.ax,new A.axF(r),s,s,q),1)],p),B.S,B.J,B.N),B.bM,A.aCI(B.YC,new A.axG(r,a),A.aCJ(s,s,B.l,s,s,s,s,s,s,s,s,s,s,s,new A.ct(A.cU(15),B.o),s,s,s,s))],p),B.S,B.J,B.N)},
@@ -92386,7 +92386,7 @@ $1(a){if(a.length===0)return"Please select a scrap type"
 return null},
 $S:22}
 A.axC.prototype={
-$3(a,b,c){return new A.jt(b,"Preferred Pickup Time",B.LQ,new A.axs(this.a),new A.axt(),null)},
+$3(a,b,c){return new A.jt(b,"Preferred Pickup Time",B.LS,new A.axs(this.a),new A.axt(),null)},
 $S:53}
 A.axs.prototype={
 $1(a){this.a.Q.sB(0,a)},
@@ -92396,7 +92396,7 @@ $1(a){if(a.length===0)return"Please select a preferred pickup time"
 return null},
 $S:22}
 A.axD.prototype={
-$3(a,b,c){return new A.jt(b,"Location Type",B.KK,new A.axq(this.a),new A.axr(),null)},
+$3(a,b,c){return new A.jt(b,"Location Type",B.KL,new A.axq(this.a),new A.axr(),null)},
 $S:53}
 A.axq.prototype={
 $1(a){this.a.as.sB(0,a)},
@@ -92406,7 +92406,7 @@ $1(a){if(a.length===0)return"Please select a location type"
 return null},
 $S:22}
 A.axE.prototype={
-$3(a,b,c){return new A.jt(b,"Payment Method",B.LE,new A.axo(this.a),new A.axp(),null)},
+$3(a,b,c){return new A.jt(b,"Payment Method",B.LF,new A.axo(this.a),new A.axp(),null)},
 $S:53}
 A.axo.prototype={
 $1(a){this.a.at.sB(0,a)},
@@ -92431,7 +92431,7 @@ if(s.d.gN().wZ())A.aNG(new A.axj("        Name: "+s.e.a.a+"\n        Email: "+s.
 $S:0}
 A.axj.prototype={
 $1(a){var s=null,r=this.a
-return A.aGc(A.b([A.x_(B.YK,new A.axh(r,a),s),A.x_(B.YI,new A.axi(r),s)],t.p),s,B.YO,s,s,B.YA)},
+return A.aGc(A.b([A.x_(B.YL,new A.axh(r,a),s),A.x_(B.YI,new A.axi(r),s)],t.p),s,B.YP,s,s,B.YA)},
 $S:205}
 A.axh.prototype={
 $0(){var s
@@ -92464,7 +92464,7 @@ ab(){var s=$.aq()
 return new A.Ux(new A.bf(null,t.am),new A.fi(B.bn,s),new A.fi(B.bn,s),new A.fi(B.bn,s),new A.fi(B.bn,s),new A.fi(B.bn,s))}}
 A.Ux.prototype={
 I(a){var s,r=this,q=null,p=t.p
-p=A.b([A.iy(A.dv(A.b([B.YG,B.YD,B.bM,B.AJ,B.bM,A.no(r.e,B.fn,"Name",q,1,new A.arb()),B.bb,A.no(r.f,B.zU,"Email",q,1,new A.arc()),B.bb,A.no(r.w,B.lf,"Mobile",10,1,new A.ard()),B.bb,A.no(r.x,B.TZ,"Message",q,2,new A.are()),B.bM,A.aCI(B.Py,new A.arf(r,a),A.aCJ(q,q,B.l,q,q,q,q,q,q,q,q,q,q,q,new A.ct(A.cU(50),B.o),q,q,q,q))],p),B.S,B.J,B.N),1)],p)
+p=A.b([A.iy(A.dv(A.b([B.YG,B.YD,B.bM,B.AJ,B.bM,A.no(r.e,B.fn,"Name",q,1,new A.arb()),B.bb,A.no(r.f,B.zU,"Email",q,1,new A.arc()),B.bb,A.no(r.w,B.lf,"Mobile",10,1,new A.ard()),B.bb,A.no(r.x,B.TZ,"Message",q,2,new A.are()),B.bM,A.aCI(B.Px,new A.arf(r,a),A.aCJ(q,q,B.l,q,q,q,q,q,q,q,q,q,q,q,new A.ct(A.cU(50),B.o),q,q,q,q))],p),B.S,B.J,B.N),1)],p)
 s=t.w
 if(!(A.aR(a,q,s).w.a.a<=600))p.push(B.dj)
 if(!(A.aR(a,q,s).w.a.a<=600))p.push(A.q3(A.cU(20),A.aby("assets/image/contact.jpeg",q,A.aR(a,B.ds,s).w.a.a/2.5,A.aR(a,B.ds,s).w.a.a/2.5),B.aZ))
@@ -92577,13 +92577,13 @@ I(a){var s,r,q=null,p=A.T(a).p1.y
 if(p==null)p=q
 else{s=A.T(a).p1.y
 s=s==null?q:s.b
-p=p.qF(s==null?B.j:s,B.ae)}p=A.ce("About ScrapBazaar",q,q,q,p,B.bd,q)
+p=p.qF(s==null?B.j:s,B.ae)}p=A.ce("About ScrapBaazar",q,q,q,p,B.bd,q)
 s=A.T(a).p1.z
 if(s==null)s=q
 else{r=A.T(a).p1.z
 if(r==null)r=q
 else{r=r.b
-r=r==null?q:r.b8(0.7)}s=s.qF(r==null?B.Q:r,B.n)}return A.dv(A.b([p,B.ic,A.ce("ScrapBazaar is committed to providing an eco-friendly platform to recycle scrap items. We ensure that the scrap you dispose of is responsibly handled and recycled to benefit the environment.",q,q,q,s,B.bd,q),B.ic,B.YW],t.p),B.S,B.J,B.N)}}
+r=r==null?q:r.b8(0.7)}s=s.qF(r==null?B.Q:r,B.n)}return A.dv(A.b([p,B.ic,A.ce("ScrapBaazar is committed to providing an eco-friendly platform to recycle scrap items. We ensure that the scrap you dispose of is responsibly handled and recycled to benefit the environment.",q,q,q,s,B.bd,q),B.ic,B.YW],t.p),B.S,B.J,B.N)}}
 A.S3.prototype={
 I(a){var s,r=null,q=A.T(a).p1.z
 if(q==null)q=r
@@ -92647,7 +92647,7 @@ $2(a,b){return this.a.Nz(a,b)},
 $S:235}
 A.rc.prototype={}
 A.vH.prototype={
-I(a){var s=this,r=null,q=A.aR(a,r,t.w).w.a.a<=600?A.aHB(new A.bg(B.np,A.aDi(A.b([B.Px,s.xW("Home",0,a),B.H3,s.xW("Contact Us",1,a),s.xW("Rates",2,a),s.xW("Appointment",3,a)],t.p),B.ar,r,!1),r)):r,p=A.DP(r,r,r,B.be,r,r,!0,r,B.U7,B.as,r,r,B.a8,B.am),o=t.pU
+I(a){var s=this,r=null,q=A.aR(a,r,t.w).w.a.a<=600?A.aHB(new A.bg(B.np,A.aDi(A.b([B.Py,s.xW("Home",0,a),B.H3,s.xW("Contact Us",1,a),s.xW("Rates",2,a),s.xW("Appointment",3,a)],t.p),B.ar,r,!1),r)):r,p=A.DP(r,r,r,B.be,r,r,!0,r,B.U5,B.as,r,r,B.a8,B.am),o=t.pU
 return A.a45(A.aGl(r,A.wl(A.zo(A.b([s.a6v(a)],t.p),B.j,B.T_,0,r,p),A.LF(r,r,new A.ah6(s),o,t.S),q,s.a6s(a),B.fF),new A.ah7(),new A.ah8(),t.no,t.M6),new A.ah9(),o)},
 a6v(a){var s=null
 if(A.aR(a,s,t.w).w.a.a<600)return new A.du(new A.ah4(),s)
@@ -92930,7 +92930,7 @@ I(a){var s=null
 return A.aH4(A.wl(A.zo(s,s,s,s,s,B.Yz),A.Er(A.ce("Privacy Policy\nWe collect and store your personal data (like name, address, contact number) for operational and communication purposes. We do not sell or share your data with third parties without consent.",s,s,s,B.A_,s,s),new A.ar(20,20,20,20)),s,s,s),2)}}
 A.wZ.prototype={
 I(a){var s=null
-return A.aH4(A.wl(A.zo(s,s,s,s,s,B.YV),A.Er(A.ce('1. Introduction\nWelcome to ScrapBazaar. These Terms and Conditions ("Terms") govern your use of our services related to scrap collection, recycling, and resale. By accessing or using our services, you agree to comply with these Terms.\n        \n2. Eligibility\nYou must be at least 18 years old to use our services. By using ScrapBazaar, you confirm that you meet this requirement.\n        \n3. Service Scope\nScrapBazaar collects various scrap materials, including but not limited to:\nHousehold scrap (plastic, paper, metal, e-waste)\nIndustrial waste (subject to approval)\nBulk collection for commercial establishments\nThe collection is based on availability and location coverage. We reserve the right to refuse service under certain circumstances (e.g., hazardous waste, banned items).\n        \n4. User Responsibilities\nYou agree to provide accurate information regarding the type and quantity of scrap. You must ensure the scrap is free from hazardous or prohibited materials. Scrap should be clean, sorted (if required), and ready for pickup at the scheduled time.\n        \n5. Pricing & Payment\nPricing is based on the category and weight of the scrap, subject to current market rates. We reserve the right to revise pricing without prior notice. Payment will be made via cash, UPI, bank transfer, or wallet, based on user preference.\n        \n6. Cancellations & Rescheduling\nCancellations or changes must be informed at least 2 hours before the scheduled pickup time.\nRepeated cancellations may result in service denial.',s,s,s,B.A_,s,s),new A.ar(20,20,20,20)),s,s,s),2)}}
+return A.aH4(A.wl(A.zo(s,s,s,s,s,B.YV),A.Er(A.ce('1. Introduction\nWelcome to ScrapBaazar. These Terms and Conditions ("Terms") govern your use of our services related to scrap collection, recycling, and resale. By accessing or using our services, you agree to comply with these Terms.\n        \n2. Eligibility\nYou must be at least 18 years old to use our services. By using ScrapBaazar, you confirm that you meet this requirement.\n        \n3. Service Scope\nScrapBaazar collects various scrap materials, including but not limited to:\nHousehold scrap (plastic, paper, metal, e-waste)\nIndustrial waste (subject to approval)\nBulk collection for commercial establishments\nThe collection is based on availability and location coverage. We reserve the right to refuse service under certain circumstances (e.g., hazardous waste, banned items).\n        \n4. User Responsibilities\nYou agree to provide accurate information regarding the type and quantity of scrap. You must ensure the scrap is free from hazardous or prohibited materials. Scrap should be clean, sorted (if required), and ready for pickup at the scheduled time.\n        \n5. Pricing & Payment\nPricing is based on the category and weight of the scrap, subject to current market rates. We reserve the right to revise pricing without prior notice. Payment will be made via cash, UPI, bank transfer, or wallet, based on user preference.\n        \n6. Cancellations & Rescheduling\nCancellations or changes must be informed at least 2 hours before the scheduled pickup time.\nRepeated cancellations may result in service denial.',s,s,s,B.A_,s,s),new A.ar(20,20,20,20)),s,s,s),2)}}
 A.MF.prototype={
 I(a){var s=null,r=A.aCJ(s,s,B.l,s,s,s,s,s,s,s,s,s,s,s,new A.ct(A.cU(15),B.o),s,s,s,s)
 return A.aCI(A.ce("Submit",s,s,s,B.fp,s,s),this.d,r)}}
@@ -98055,12 +98055,12 @@ B.oc=A.b(s([200,202]),t.t)
 B.JR=A.b(s([239,191,189]),t.t)
 B.od=A.b(s([304]),t.t)
 B.Kg=A.b(s([4,9,14,19]),t.t)
-B.LM=A.b(s([137,80,78,71,13,10,26,10]),t.Z)
+B.LO=A.b(s([137,80,78,71,13,10,26,10]),t.Z)
 B.IZ=new A.nJ(0,"png")
 B.J7=new A.ky(B.IZ,!1,0,"png")
-B.IX=new A.lI(B.LM,B.J7,0,"png")
-B.LP=A.b(s([71,73,70,56,55,97]),t.Z)
-B.IW=new A.lI(B.LP,B.hn,1,"gif87a")
+B.IX=new A.lI(B.LO,B.J7,0,"png")
+B.LR=A.b(s([71,73,70,56,55,97]),t.Z)
+B.IW=new A.lI(B.LR,B.hn,1,"gif87a")
 B.Ld=A.b(s([71,73,70,56,57,97]),t.Z)
 B.IV=new A.lI(B.Ld,B.hn,2,"gif89a")
 B.JT=A.b(s([255,216,255]),t.Z)
@@ -98103,7 +98103,7 @@ B.bg=new A.kZ(0,"label")
 B.aU=new A.kZ(1,"avatar")
 B.c6=new A.kZ(2,"deleteIcon")
 B.KJ=A.b(s([B.bg,B.aU,B.c6]),A.au("C<kZ>"))
-B.KK=A.b(s(["Home","Office","Commercial"]),t.s)
+B.KL=A.b(s(["Home","Office","Commercial"]),t.s)
 B.aD=new A.eJ(0,"icon")
 B.aP=new A.eJ(1,"input")
 B.a7=new A.eJ(2,"label")
@@ -98115,7 +98115,7 @@ B.aK=new A.eJ(7,"suffixIcon")
 B.bN=new A.eJ(8,"helperError")
 B.c7=new A.eJ(9,"counter")
 B.cp=new A.eJ(10,"container")
-B.KO=A.b(s([B.aD,B.aP,B.a7,B.aV,B.aW,B.aX,B.ac,B.aK,B.bN,B.c7,B.cp]),A.au("C<eJ>"))
+B.KP=A.b(s([B.aD,B.aP,B.a7,B.aV,B.aW,B.aX,B.ac,B.aK,B.bN,B.c7,B.cp]),A.au("C<eJ>"))
 B.M_=new A.o_("en","US")
 B.of=A.b(s([B.M_]),t.ss)
 B.a_U=new A.mz(0,0)
@@ -98200,12 +98200,12 @@ B.Ih=new A.iA(5)
 B.Ii=new A.iA(7)
 B.nS=new A.iA(8)
 B.oj=A.b(s([B.jX,B.If,B.Ig,B.n,B.a6,B.Ih,B.ae,B.Ii,B.nS]),A.au("C<iA>"))
-B.LE=A.b(s(["Cash","Online Payment","Card Payment"]),t.s)
+B.LF=A.b(s(["Cash","Online Payment","Card Payment"]),t.s)
 B.hK=new A.j(0,2)
 B.BP=new A.be(0.75,B.F,B.mO,B.hK,1.5)
-B.LG=A.b(s([B.BP]),t.V)
+B.LH=A.b(s([B.BP]),t.V)
 B.eN=A.b(s([B.cO,B.cb,B.fy,B.fz,B.iT]),t.QP)
-B.LQ=A.b(s(["Morning (8 AM - 12 PM)","Afternoon (12 PM - 4 PM)","Evening (4 PM - 8 PM)","Custom Time Slot"]),t.s)
+B.LS=A.b(s(["Morning (8 AM - 12 PM)","Afternoon (12 PM - 4 PM)","Evening (4 PM - 8 PM)","Custom Time Slot"]),t.s)
 B.ok=A.b(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.k6=A.b(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
 B.dL=new A.hZ(0,"controlModifier")
@@ -98263,7 +98263,7 @@ B.bQ=new A.l(0.1411764705882353,0,0,0,B.e)
 B.c1=new A.j(0,1)
 B.BE=new A.be(0,B.F,B.bQ,B.c1,1)
 B.BN=new A.be(0,B.F,B.bG,B.c1,3)
-B.LO=A.b(s([B.BO,B.BE,B.BN]),t.V)
+B.LQ=A.b(s([B.BO,B.BE,B.BN]),t.V)
 B.dQ=new A.j(0,3)
 B.BM=new A.be(-2,B.F,B.bP,B.dQ,1)
 B.BY=new A.be(0,B.F,B.bQ,B.hK,2)
@@ -98272,7 +98272,7 @@ B.KF=A.b(s([B.BM,B.BY,B.BH]),t.V)
 B.BF=new A.be(-2,B.F,B.bP,B.dQ,3)
 B.BJ=new A.be(0,B.F,B.bQ,B.dQ,4)
 B.C6=new A.be(0,B.F,B.bG,B.c1,8)
-B.LH=A.b(s([B.BF,B.BJ,B.C6]),t.V)
+B.LJ=A.b(s([B.BF,B.BJ,B.C6]),t.V)
 B.BL=new A.be(-1,B.F,B.bP,B.hK,4)
 B.BU=new A.be(0,B.F,B.bQ,B.hL,5)
 B.BQ=new A.be(0,B.F,B.bG,B.c1,10)
@@ -98298,19 +98298,19 @@ B.BV=new A.be(-4,B.F,B.bP,B.OU,8)
 B.OP=new A.j(0,12)
 B.BS=new A.be(2,B.F,B.bQ,B.OP,17)
 B.C3=new A.be(4,B.F,B.bG,B.kx,22)
-B.KN=A.b(s([B.BV,B.BS,B.C3]),t.V)
+B.KO=A.b(s([B.BV,B.BS,B.C3]),t.V)
 B.C2=new A.be(-5,B.F,B.bP,B.ky,10)
 B.OQ=new A.j(0,16)
 B.BX=new A.be(2,B.F,B.bQ,B.OQ,24)
 B.C8=new A.be(5,B.F,B.bG,B.uB,30)
-B.KM=A.b(s([B.C2,B.BX,B.C8]),t.V)
+B.KN=A.b(s([B.C2,B.BX,B.C8]),t.V)
 B.OO=new A.j(0,11)
 B.BK=new A.be(-7,B.F,B.bP,B.OO,15)
 B.OS=new A.j(0,24)
 B.C1=new A.be(3,B.F,B.bQ,B.OS,38)
 B.BW=new A.be(8,B.F,B.bG,B.uC,46)
 B.KX=A.b(s([B.BK,B.C1,B.BW]),t.V)
-B.Nu=new A.bT([0,B.Lv,1,B.LO,2,B.KF,3,B.LH,4,B.JV,6,B.KI,8,B.Kf,9,B.Ku,12,B.KN,16,B.KM,24,B.KX],A.au("bT<n,E<be>>"))
+B.Nu=new A.bT([0,B.Lv,1,B.LQ,2,B.KF,3,B.LJ,4,B.JV,6,B.KI,8,B.Kf,9,B.Ku,12,B.KO,16,B.KN,24,B.KX],A.au("bT<n,E<be>>"))
 B.bZ=new A.i(4294968065)
 B.kW=new A.ai(B.bZ,!1,!1,!0,!1,B.m)
 B.bI=new A.i(4294968066)
@@ -98844,38 +98844,38 @@ B.K5=A.b(s([4294968072,null,null,8589935161]),t.Z)
 B.L7=A.b(s([8589934850,8589934850,8589934851,null]),t.Z)
 B.ul=new A.bT(["*",B.K8,"+",B.K9,"-",B.Ka,".",B.Kb,"/",B.Kc,"0",B.Kd,"1",B.Ke,"2",B.Kh,"3",B.Kj,"4",B.Kk,"5",B.Kl,"6",B.Km,"7",B.Kn,"8",B.Ko,"9",B.Kq,"Alt",B.L4,"AltGraph",B.JY,"ArrowDown",B.JZ,"ArrowLeft",B.K_,"ArrowRight",B.K0,"ArrowUp",B.K1,"Clear",B.K6,"Control",B.L5,"Delete",B.JX,"End",B.K2,"Enter",B.JW,"Home",B.K3,"Insert",B.K7,"Meta",B.L6,"PageDown",B.K4,"PageUp",B.K5,"Shift",B.L7],A.au("bT<k,E<n?>>"))
 B.Kp=A.b(s([B.os,null,null,B.u8]),t.L)
-B.LC=A.b(s([B.tV,null,null,B.u9]),t.L)
-B.KL=A.b(s([B.tW,null,null,B.ua]),t.L)
+B.LD=A.b(s([B.tV,null,null,B.u9]),t.L)
+B.KM=A.b(s([B.tW,null,null,B.ua]),t.L)
 B.La=A.b(s([B.tX,null,null,B.d2]),t.L)
 B.JO=A.b(s([B.tY,null,null,B.ub]),t.L)
-B.LR=A.b(s([B.tZ,null,null,B.ki]),t.L)
-B.LL=A.b(s([B.u_,null,null,B.eW]),t.L)
+B.LT=A.b(s([B.tZ,null,null,B.ki]),t.L)
+B.LN=A.b(s([B.u_,null,null,B.eW]),t.L)
 B.Kx=A.b(s([B.u0,null,null,B.d3]),t.L)
 B.LX=A.b(s([B.u1,null,null,B.eX]),t.L)
-B.LK=A.b(s([B.u2,null,null,B.d4]),t.L)
+B.LM=A.b(s([B.u2,null,null,B.d4]),t.L)
 B.Kt=A.b(s([B.u3,null,null,B.kj]),t.L)
 B.JU=A.b(s([B.u4,null,null,B.d5]),t.L)
 B.KG=A.b(s([B.u5,null,null,B.eY]),t.L)
-B.LD=A.b(s([B.u6,null,null,B.d6]),t.L)
-B.LF=A.b(s([B.u7,null,null,B.eZ]),t.L)
+B.LE=A.b(s([B.u6,null,null,B.d6]),t.L)
+B.LG=A.b(s([B.u7,null,null,B.eZ]),t.L)
 B.Ky=A.b(s([B.eU,B.eU,B.hB,null]),t.L)
-B.LS=A.b(s([B.hx,null,B.hx,null]),t.L)
-B.KP=A.b(s([B.bZ,null,null,B.d3]),t.L)
-B.KQ=A.b(s([B.bI,null,null,B.d4]),t.L)
-B.KR=A.b(s([B.bJ,null,null,B.d5]),t.L)
+B.LU=A.b(s([B.hx,null,B.hx,null]),t.L)
+B.KQ=A.b(s([B.bZ,null,null,B.d3]),t.L)
+B.KR=A.b(s([B.bI,null,null,B.d4]),t.L)
+B.KS=A.b(s([B.bJ,null,null,B.d5]),t.L)
 B.LV=A.b(s([B.c_,null,null,B.d6]),t.L)
-B.LI=A.b(s([B.kb,null,null,B.kj]),t.L)
+B.LK=A.b(s([B.kb,null,null,B.kj]),t.L)
 B.Kz=A.b(s([B.eT,B.eT,B.hA,null]),t.L)
 B.Lh=A.b(s([B.aN,null,null,B.d2]),t.L)
-B.KS=A.b(s([B.d_,null,null,B.eW]),t.L)
+B.KT=A.b(s([B.d_,null,null,B.eW]),t.L)
 B.Ks=A.b(s([B.hw,null,null,B.kh]),t.L)
-B.KT=A.b(s([B.d0,null,null,B.eY]),t.L)
-B.LJ=A.b(s([B.kc,null,null,B.ki]),t.L)
+B.KU=A.b(s([B.d0,null,null,B.eY]),t.L)
+B.LL=A.b(s([B.kc,null,null,B.ki]),t.L)
 B.KA=A.b(s([B.eV,B.eV,B.hC,null]),t.L)
-B.KU=A.b(s([B.eR,null,null,B.eX]),t.L)
+B.KV=A.b(s([B.eR,null,null,B.eX]),t.L)
 B.Ll=A.b(s([B.eS,null,null,B.eZ]),t.L)
 B.KB=A.b(s([B.cA,B.cA,B.d1,null]),t.L)
-B.NO=new A.bT(["*",B.Kp,"+",B.LC,"-",B.KL,".",B.La,"/",B.JO,"0",B.LR,"1",B.LL,"2",B.Kx,"3",B.LX,"4",B.LK,"5",B.Kt,"6",B.JU,"7",B.KG,"8",B.LD,"9",B.LF,"Alt",B.Ky,"AltGraph",B.LS,"ArrowDown",B.KP,"ArrowLeft",B.KQ,"ArrowRight",B.KR,"ArrowUp",B.LV,"Clear",B.LI,"Control",B.Kz,"Delete",B.Lh,"End",B.KS,"Enter",B.Ks,"Home",B.KT,"Insert",B.LJ,"Meta",B.KA,"PageDown",B.KU,"PageUp",B.Ll,"Shift",B.KB],A.au("bT<k,E<i?>>"))
+B.NO=new A.bT(["*",B.Kp,"+",B.LD,"-",B.KM,".",B.La,"/",B.JO,"0",B.LT,"1",B.LN,"2",B.Kx,"3",B.LX,"4",B.LM,"5",B.Kt,"6",B.JU,"7",B.KG,"8",B.LE,"9",B.LG,"Alt",B.Ky,"AltGraph",B.LU,"ArrowDown",B.KQ,"ArrowLeft",B.KR,"ArrowRight",B.KS,"ArrowUp",B.LV,"Clear",B.LK,"Control",B.Kz,"Delete",B.Lh,"End",B.KT,"Enter",B.Ks,"Home",B.KU,"Insert",B.LL,"Meta",B.KA,"PageDown",B.KV,"PageUp",B.Ll,"Shift",B.KB],A.au("bT<k,E<i?>>"))
 B.OG={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.ko=new A.bO(B.OG,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.li)
 B.OC={Abort:0,Again:1,AltLeft:2,AltRight:3,ArrowDown:4,ArrowLeft:5,ArrowRight:6,ArrowUp:7,AudioVolumeDown:8,AudioVolumeMute:9,AudioVolumeUp:10,Backquote:11,Backslash:12,Backspace:13,BracketLeft:14,BracketRight:15,BrightnessDown:16,BrightnessUp:17,BrowserBack:18,BrowserFavorites:19,BrowserForward:20,BrowserHome:21,BrowserRefresh:22,BrowserSearch:23,BrowserStop:24,CapsLock:25,Comma:26,ContextMenu:27,ControlLeft:28,ControlRight:29,Convert:30,Copy:31,Cut:32,Delete:33,Digit0:34,Digit1:35,Digit2:36,Digit3:37,Digit4:38,Digit5:39,Digit6:40,Digit7:41,Digit8:42,Digit9:43,DisplayToggleIntExt:44,Eject:45,End:46,Enter:47,Equal:48,Escape:49,Esc:50,F1:51,F10:52,F11:53,F12:54,F13:55,F14:56,F15:57,F16:58,F17:59,F18:60,F19:61,F2:62,F20:63,F21:64,F22:65,F23:66,F24:67,F3:68,F4:69,F5:70,F6:71,F7:72,F8:73,F9:74,Find:75,Fn:76,FnLock:77,GameButton1:78,GameButton10:79,GameButton11:80,GameButton12:81,GameButton13:82,GameButton14:83,GameButton15:84,GameButton16:85,GameButton2:86,GameButton3:87,GameButton4:88,GameButton5:89,GameButton6:90,GameButton7:91,GameButton8:92,GameButton9:93,GameButtonA:94,GameButtonB:95,GameButtonC:96,GameButtonLeft1:97,GameButtonLeft2:98,GameButtonMode:99,GameButtonRight1:100,GameButtonRight2:101,GameButtonSelect:102,GameButtonStart:103,GameButtonThumbLeft:104,GameButtonThumbRight:105,GameButtonX:106,GameButtonY:107,GameButtonZ:108,Help:109,Home:110,Hyper:111,Insert:112,IntlBackslash:113,IntlRo:114,IntlYen:115,KanaMode:116,KeyA:117,KeyB:118,KeyC:119,KeyD:120,KeyE:121,KeyF:122,KeyG:123,KeyH:124,KeyI:125,KeyJ:126,KeyK:127,KeyL:128,KeyM:129,KeyN:130,KeyO:131,KeyP:132,KeyQ:133,KeyR:134,KeyS:135,KeyT:136,KeyU:137,KeyV:138,KeyW:139,KeyX:140,KeyY:141,KeyZ:142,KeyboardLayoutSelect:143,Lang1:144,Lang2:145,Lang3:146,Lang4:147,Lang5:148,LaunchApp1:149,LaunchApp2:150,LaunchAssistant:151,LaunchControlPanel:152,LaunchMail:153,LaunchScreenSaver:154,MailForward:155,MailReply:156,MailSend:157,MediaFastForward:158,MediaPause:159,MediaPlay:160,MediaPlayPause:161,MediaRecord:162,MediaRewind:163,MediaSelect:164,MediaStop:165,MediaTrackNext:166,MediaTrackPrevious:167,MetaLeft:168,MetaRight:169,MicrophoneMuteToggle:170,Minus:171,NonConvert:172,NumLock:173,Numpad0:174,Numpad1:175,Numpad2:176,Numpad3:177,Numpad4:178,Numpad5:179,Numpad6:180,Numpad7:181,Numpad8:182,Numpad9:183,NumpadAdd:184,NumpadBackspace:185,NumpadClear:186,NumpadClearEntry:187,NumpadComma:188,NumpadDecimal:189,NumpadDivide:190,NumpadEnter:191,NumpadEqual:192,NumpadMemoryAdd:193,NumpadMemoryClear:194,NumpadMemoryRecall:195,NumpadMemoryStore:196,NumpadMemorySubtract:197,NumpadMultiply:198,NumpadParenLeft:199,NumpadParenRight:200,NumpadSubtract:201,Open:202,PageDown:203,PageUp:204,Paste:205,Pause:206,Period:207,Power:208,PrintScreen:209,PrivacyScreenToggle:210,Props:211,Quote:212,Resume:213,ScrollLock:214,Select:215,SelectTask:216,Semicolon:217,ShiftLeft:218,ShiftRight:219,ShowAllWindows:220,Slash:221,Sleep:222,Space:223,Super:224,Suspend:225,Tab:226,Turbo:227,Undo:228,WakeUp:229,ZoomToggle:230}
@@ -99348,17 +99348,17 @@ B.uK=new A.PF(1,"landscape")
 B.Pv=new A.CV(null)
 B.a1g=new A.PI(0,"start")
 B.Pw=new A.PI(1,"end")
+B.fp=new A.q(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YR=new A.cN("SEND",null,B.fp,null,null,null,null,null,null)
+B.Px=new A.bg(B.nr,B.YR,null)
 B.HJ=new A.ar(16,56,0,20)
 B.Dv=new A.M2(null)
 B.SV=new A.dG(10,null,null,null)
 B.Y_=new A.q(!0,B.aI,null,null,null,null,22,B.ae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YP=new A.cN("ScrapBazaar",null,B.Y_,null,null,null,null,null,null)
-B.LT=A.b(s([B.Dv,B.SV,B.YP]),t.p)
-B.QP=new A.wi(B.aE,B.J,B.N,B.S,null,B.bw,null,0,B.LT,null)
-B.Px=new A.bg(B.HJ,B.QP,null)
-B.fp=new A.q(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YR=new A.cN("SEND",null,B.fp,null,null,null,null,null,null)
-B.Py=new A.bg(B.nr,B.YR,null)
+B.YJ=new A.cN("ScrapBaazar",null,B.Y_,null,null,null,null,null,null)
+B.LI=A.b(s([B.Dv,B.SV,B.YJ]),t.p)
+B.QP=new A.wi(B.aE,B.J,B.N,B.S,null,B.bw,null,0,B.LI,null)
+B.Py=new A.bg(B.HJ,B.QP,null)
 B.Pz=new A.CY(null)
 B.dc=new A.PP(0,"fill")
 B.bl=new A.PP(1,"stroke")
@@ -99456,8 +99456,8 @@ B.HZ=new A.qm(1,B.eJ,B.n2,null)
 B.dj=new A.dG(20,null,null,null)
 B.I_=new A.qm(1,B.eJ,B.lY,null)
 B.HY=new A.qm(1,B.eJ,B.l8,null)
-B.LN=A.b(s([B.HZ,B.dj,B.I_,B.dj,B.HY]),t.p)
-B.QO=new A.wi(B.aE,B.J,B.N,B.S,null,B.bw,null,0,B.LN,null)
+B.LP=A.b(s([B.HZ,B.dj,B.I_,B.dj,B.HY]),t.p)
+B.QO=new A.wi(B.aE,B.J,B.N,B.S,null,B.bw,null,0,B.LP,null)
 B.QQ=new A.DU(1333)
 B.kG=new A.DU(2222)
 B.QR=new A.R4(null,null)
@@ -99709,10 +99709,10 @@ B.zB=new A.kR(5,"timeout")
 B.T7=new A.wK(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.YH=new A.cN("Error: Could not make the call.",null,null,null,null,null,null,null,null)
 B.T8=new A.kQ(B.YH,B.f0,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
-B.YN=new A.cN("Calling +91 6399823146",null,null,null,null,null,null,null,null)
-B.T9=new A.kQ(B.YN,B.dK,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
-B.YJ=new A.cN("Failed to open WhatsApp.",null,null,null,null,null,null,null,null)
-B.Ta=new A.kQ(B.YJ,null,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
+B.YO=new A.cN("Calling +91 6399823146",null,null,null,null,null,null,null,null)
+B.T9=new A.kQ(B.YO,B.dK,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
+B.YK=new A.cN("Failed to open WhatsApp.",null,null,null,null,null,null,null,null)
+B.Ta=new A.kQ(B.YK,null,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
 B.YQ=new A.cN("Your message has been sent!",null,null,null,null,null,null,null,null)
 B.Tb=new A.kQ(B.YQ,null,null,null,null,null,null,null,null,null,null,null,null,B.eD,null,null,null,B.A,null)
 B.zC=new A.EC(0,"permissive")
@@ -99806,17 +99806,17 @@ B.U1=new A.Fe(null,null,null)
 B.U2=new A.Ff(B.f,null)
 B.zZ=new A.q(!0,B.l,null,null,null,null,28,B.ae,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.U6=new A.fN("Welcome to ",null,B.aQ,B.zZ)
-B.U4=new A.fN("Scrap",null,B.aQ,B.zZ)
+B.U3=new A.fN("Scrap",null,B.aQ,B.zZ)
 B.VG=new A.q(!0,B.aI,null,null,null,null,28,B.ae,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.U5=new A.fN("Bazaar!",null,B.aQ,B.VG)
-B.LU=A.b(s([B.U6,B.U4,B.U5]),t.VO)
-B.zV=new A.fN(null,B.LU,B.aQ,null)
+B.U4=new A.fN("Baazar!",null,B.aQ,B.VG)
+B.KK=A.b(s([B.U6,B.U3,B.U4]),t.VO)
+B.zV=new A.fN(null,B.KK,B.aQ,null)
 B.Us=new A.q(!0,B.l,null,null,null,null,20,B.ae,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.U8=new A.fN("Scrap",null,B.aQ,B.Us)
 B.UO=new A.q(!0,B.aI,null,null,null,null,20,B.ae,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.U3=new A.fN("Bazaar",null,B.aQ,B.UO)
-B.KV=A.b(s([B.U8,B.U3]),t.VO)
-B.U7=new A.fN(null,B.KV,B.aQ,null)
+B.U7=new A.fN("Baazar",null,B.aQ,B.UO)
+B.LC=A.b(s([B.U8,B.U7]),t.VO)
+B.U5=new A.fN(null,B.LC,B.aQ,null)
 B.h=new A.F3(0)
 B.UJ=new A.q(!1,B.jt,null,"CupertinoSystemText",null,null,17,null,null,-0.41,null,null,null,null,null,null,null,B.h,null,null,null,null,null,null,null,null)
 B.zP=new A.F3(1)
@@ -100109,10 +100109,10 @@ B.YD=new A.cN("Address :  12 Chunna bhatta , Asian chemicals , Adhoiwala, Dehrad
 B.Xd=new A.q(!0,B.M,null,null,null,null,24,B.ae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.YG=new A.cN("We would love to hear from you!",null,B.Xd,B.bd,null,null,null,null,null)
 B.YI=new A.cN("Email",null,null,null,null,null,null,null,null)
-B.YK=new A.cN("WhatsApp",null,null,null,null,null,null,null,null)
-B.YL=new A.cN("Go to home page",null,B.fp,null,null,null,null,null,null)
-B.YM=new A.cN("Scrap Appointment Form",null,null,null,null,null,null,null,null)
-B.YO=new A.cN("Would you like to send via WhatsApp or Email?",null,null,null,null,null,null,null,null)
+B.YL=new A.cN("WhatsApp",null,null,null,null,null,null,null,null)
+B.YM=new A.cN("Go to home page",null,B.fp,null,null,null,null,null,null)
+B.YN=new A.cN("Scrap Appointment Form",null,null,null,null,null,null,null,null)
+B.YP=new A.cN("Would you like to send via WhatsApp or Email?",null,null,null,null,null,null,null,null)
 B.YS=new A.cN("Home",null,null,null,null,null,null,null,null)
 B.YT=new A.cN("Page Not Found",null,B.fq,null,null,null,null,null,null)
 B.YU=new A.cN(" Call Us +91 6399823146",null,B.zX,null,null,null,null,null,null)
